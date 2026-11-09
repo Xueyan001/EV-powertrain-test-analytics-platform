@@ -122,3 +122,7 @@ The dashboard also supports uploading a compatible DC charging CSV file.
 ## Project Purpose
 
 This project demonstrates the integration of automotive testing knowledge, Python programming, engineering data analysis, and machine learning to support test digitalization and data-driven engineering workflows.
+
+## Dashboard Preview
+
+![Dashboard Preview](docs/dashboard.png)
